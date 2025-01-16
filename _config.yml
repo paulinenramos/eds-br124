@@ -1,0 +1,11 @@
+# setting website
+title: Pauline's EDS-BR124
+description: A website showcasing my work for EDS-BR124. 
+author: Pauline Ramos
+
+# setting theme
+theme: jekyll-theme-minimal
+
+# setting url
+url: "https://paulinenramos.github.io"
+baseurl: "/eds-br124" 
