@@ -6,6 +6,14 @@ title: "My Work"
 # My Work
 ### My work is shown from the most recent to oldest. 
 
+## Explaining My Program - Events (Monkey Getting Banana)
+Here is a video explaining my program that goes over events, using monkey getting a banana as an example. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Km_yoStZq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Explaining My Program - Nested Repeats (Mouse Drawing an Octagon)
+Here is a video explaining my program that goes over nested repeats, using a mouse drawing an octagon as an example. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rd8Nke8fbBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Animal Parade Lesson Plan 
 Here is a video explaining my program, explaining the use of repeat blocks to convey a story about a kangaroo, grasshopper, and bee. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y7_m0kdH0Hk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
