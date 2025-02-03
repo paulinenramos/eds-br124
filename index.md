@@ -6,6 +6,10 @@ title: "My Work"
 # My Work
 ### My work is shown from the most recent to oldest. 
 
+## Explaining My Program - Variables (Drawing a Triangle, Square, and Pentagon)
+Here is a video explaining my program that goes over variables, explaining how it is used to draw a triangle, square, and pentagon. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlFQoQI59mU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Explaining My Program - Events (Monkey Getting Banana)
 Here is a video explaining my program that goes over events, using monkey getting a banana as an example. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Km_yoStZq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
