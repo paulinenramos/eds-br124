@@ -6,6 +6,10 @@ title: "My Work"
 # My Work
 ### My work is shown from the most recent to oldest. 
 
+## Explaining My Program - If-Else Statements (Ball Moving Within Target)
+Here is a video explaining my program that goes over if-else statements, using a ball moving to various positions and clicking on it when it is within target to get points as an example.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IIL6DwWmpoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Explaining My Program - Conditional Repeats (Soccer Ball)
 Here is a video explaining my program that goes over conditional repeats, using a soccer ball going to various, random positions until we stop it with our mouse as an example.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1XpsjiMXYSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
