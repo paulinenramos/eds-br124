@@ -6,6 +6,10 @@ title: "My Work"
 # My Work
 ### My work is shown from the most recent to oldest.
 
+## Explaining My Program - Compound Conditionals (Help Alonzo Find Buried Treasure)
+Here is a video explaining my program that goes over compound conditionals by helping Alonzo find buried treasure in the sand as an example.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28g5IGtwC1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Explaining My Program - Nested If/Else (Norman the Penguin Swimming in the Ocean)
 Here is a video explaining my program that goes over nested if/else, using whether Norman the Penguin could swim in the ocean as an example.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UU9wBna-TQ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
