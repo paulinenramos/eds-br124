@@ -6,6 +6,11 @@ title: "My Work"
 # My Work
 ### My work is shown from the most recent to oldest.
 
+## Explaining My Program - Lists (Countries With Same Letter)
+Here is a video explaining my program that goes over lists by showing all the countries with whatever letter you input as an example. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EeKl6fc4Zbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Explaining My Program - Abstraction (Sunny Day with Flower)
 Here is a video explaining my program that goes over abstraction by showing a sunny day with a flower sprouting at the end as an example.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cRCNLD8UvXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
